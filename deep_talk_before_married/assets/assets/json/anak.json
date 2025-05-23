@@ -1,0 +1,50 @@
+[
+  {
+    "no": 1,
+    "question": "Apakah kamu ingin memiliki anak? Jika ya, berapa banyak dan kapan kira-kira kamu ingin menjadi orang tua?"
+  },
+  {
+    "no": 2,
+    "question": "Bagaimana kamu membayangkan gaya pengasuhan yang akan kita terapkan (misalnya disiplin ketat vs lebih bebas)?"
+  },
+  {
+    "no": 3,
+    "question": "Nilai atau kebiasaan apa yang paling ingin kamu tanamkan pada anak-anak kita?"
+  },
+  {
+    "no": 4,
+    "question": "Bagaimana jika kita mengalami kesulitan memiliki anak; apakah kita terbuka untuk solusi lain seperti adopsi?"
+  },
+  {
+    "no": 5,
+    "question": "Bagaimana kamu memandang peran suami/istri dalam membesarkan anak (misalnya pembagian tugas pengasuhan)?"
+  },
+  {
+    "no": 6,
+    "question": "Apa harapan dan kekhawatiran kamu ketika memikirkan menjadi orang tua?"
+  },
+  {
+    "no": 7,
+    "question": "Bagaimana kita akan menyelesaikan perbedaan pendapat terkait pengasuhan atau pendidikan anak?"
+  },
+  {
+    "no": 8,
+    "question": "Apakah ada pengalaman masa kecil kamu yang ingin kamu wariskan atau hindari dalam membesarkan anak?"
+  },
+  {
+    "no": 9,
+    "question": "Bagaimana kamu berencana menyeimbangkan pekerjaan dan kualitas waktu bersama anak di masa depan?"
+  },
+  {
+    "no": 10,
+    "question": "Apa arti keluarga besar bagi kamu dalam konteks mendidik dan membesarkan anak?"
+  },
+  {
+    "no": 11,
+    "question": "Bagaimana kamu akan menangani jika anak kita mengalami masalah, misalnya bullying atau kesulitan belajar?"
+  },
+  {
+    "no": 12,
+    "question": "Menurut kamu, bagaimana kehadiran anak-anak akan memengaruhi dinamika pernikahan kita, dan apa yang perlu kita lakukan untuk saling mendukung?"
+  }
+]

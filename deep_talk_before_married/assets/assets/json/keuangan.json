@@ -1,0 +1,50 @@
+[
+  {
+    "no": 1,
+    "question": "Bagaimana pandangan kamu tentang pengelolaan keuangan keluarga?"
+  },
+  {
+    "no": 2,
+    "question": "Apakah kita akan memiliki rekening bersama atau terpisah? Mengapa kamu memilih demikian?"
+  },
+  {
+    "no": 3,
+    "question": "Bagaimana cara kita merencanakan anggaran bulanan untuk kebutuhan dan tabungan?"
+  },
+  {
+    "no": 4,
+    "question": "Bagaimana sikap kamu terhadap utang, dan bagaimana kita akan menangani utang jika ada?"
+  },
+  {
+    "no": 5,
+    "question": "Bagaimana kita membagi tanggung jawab finansial jika salah satu memiliki pendapatan lebih besar?"
+  },
+  {
+    "no": 6,
+    "question": "Apa prioritas finansial utama kamu dalam jangka pendek dan panjang (misalnya pembelian rumah, pendidikan, pensiun)?"
+  },
+  {
+    "no": 7,
+    "question": "Bagaimana kita akan menghadapi situasi jika salah satu dari kita kehilangan pekerjaan atau penghasilan menurun?"
+  },
+  {
+    "no": 8,
+    "question": "Apa kebiasaan menabung kamu, dan bagaimana hal itu sejalan dengan kebiasaan pasangan?"
+  },
+  {
+    "no": 9,
+    "question": "Bagaimana perasaan kamu tentang pengeluaran besar (misalnya membeli mobil mewah) dibandingkan dengan menjaga keamanan finansial?"
+  },
+  {
+    "no": 10,
+    "question": "Apakah ada pengalaman finansial masa lalu (baik positif atau negatif) yang mempengaruhi cara kamu mengelola uang?"
+  },
+  {
+    "no": 11,
+    "question": "Bagaimana kita menentukan batas pengeluaran pribadi versus kebutuhan keluarga?"
+  },
+  {
+    "no": 12,
+    "question": "Bagaimana reaksi kamu jika pasangan kamu membelanjakan uang untuk hal yang kamu tidak setujui?"
+  }
+]
