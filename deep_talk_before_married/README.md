@@ -22,10 +22,10 @@ Selamat mencoba dan semoga hubunganmu semakin harmonis!
 - “5 Manfaat Konseling Pranikah bagi Kehidupan Rumah Tangga” – Info Psikologi (kumparan.com, 6 Mar 2024).
 - “Pentingnya Komunikasi Sebelum Menikah: Apa Saja yang Harus Dibahas?” – Admin Akanikah (blog Akanikah.com, 20 Sep 2024).
 - “Bimbingan Pranikah” – Dr. Vivian A. Soesilo (ed. 3, BPK Gunung Mulia, 2010).
-- “Peran Penting Psikolog Pernikahan dalam Rumah Tangga” – Halodoc (artikel medis populer).
-- Moghadamnia & Soleimani Farsania (2023), Psychology of Women Journal
-- Astiar Riansa dkk. (2023), Proceedings on Psychology and Behavioral Sciences
-- Marni Ghozali (2024), “Tren ‘Marriage is Scary’
+- “Peran Penting Psikolog Pernikahan dalam Rumah Tangga” – Halodoc.
+- Moghadamnia & Soleimani Farsania (2023), Psychology of Women Journal.
+- Astiar Riansa dkk. (2023), Proceedings on Psychology and Behavioral Sciences.
+- Marni Ghozali (2024), “Tren ‘Marriage is Scary’ menurut Pakar Psikologi UMSIDA”.
 
 ## Changelog
 
